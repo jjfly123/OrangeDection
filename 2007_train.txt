@@ -1,0 +1,283 @@
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/344.jpg 461,208,693,432,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/79.jpg 541,158,774,389,0 677,168,697,191,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/196.jpg 612,192,868,435,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/248.jpg 601,211,810,414,0 712,239,736,258,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/218.jpg 635,270,807,431,0 701,289,731,308,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/144.jpg 617,186,833,438,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/26.jpg 525,162,737,365,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/46.jpg 481,165,700,371,0 568,182,612,209,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/252.jpg 607,214,821,412,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/205.jpg 638,257,803,411,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/95.jpg 557,163,812,409,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/333.jpg 500,200,731,427,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/236.jpg 583,224,799,425,0 684,243,722,268,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/257.jpg 616,193,826,390,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/124.jpg 538,135,778,369,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/73.jpg 510,139,746,360,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/287.jpg 545,178,785,417,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/25.jpg 530,166,737,373,0 616,168,645,189,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/96.jpg 589,175,812,416,0 763,240,790,271,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/67.jpg 521,130,745,364,0 714,230,728,257,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/325.jpg 512,197,741,419,0 628,258,658,299,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/279.jpg 565,197,813,418,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/272.jpg 562,221,781,429,0 674,233,704,264,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/292.jpg 537,172,784,431,0 584,319,621,353,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/165.jpg 567,191,812,429,0 682,215,712,242,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/283.jpg 558,174,803,408,0 676,263,708,286,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/212.jpg 644,249,805,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/33.jpg 472,144,679,365,0 481,234,501,277,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/145.jpg 607,171,844,420,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/343.jpg 460,206,691,439,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/318.jpg 518,194,737,418,0 529,246,562,285,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/285.jpg 547,186,789,428,0 720,258,748,286,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/130.jpg 548,128,782,360,0 569,187,596,208,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/336.jpg 484,194,718,425,0 586,353,618,379,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/347.jpg 459,203,686,428,0 574,232,611,264,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/101.jpg 556,166,801,393,0 647,207,695,242,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/138.jpg 579,174,818,409,0 678,194,708,223,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/50.jpg 488,148,701,372,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/288.jpg 542,186,785,429,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/62.jpg 515,154,745,376,0 627,329,657,361,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/99.jpg 579,179,824,397,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/166.jpg 564,186,808,422,0 687,208,721,242,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/194.jpg 613,199,868,443,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/217.jpg 643,265,814,431,0 672,292,704,317,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/250.jpg 612,195,827,411,0 684,326,724,361,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/13.jpg 532,148,734,357,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/153.jpg 562,191,808,425,0 681,211,716,236,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/151.jpg 557,196,803,425,0 660,221,695,241,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/91.jpg 556,157,783,402,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/316.jpg 522,191,743,422,0 523,310,551,340,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/350.jpg 483,206,706,432,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/274.jpg 548,200,808,429,0 677,215,711,239,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/116.jpg 558,155,806,370,0 663,341,701,362,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/51.jpg 445,131,699,369,0 558,166,589,184,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/56.jpg 530,150,756,369,0 620,156,643,174,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/260.jpg 596,199,804,401,0 757,229,787,265,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/84.jpg 556,153,798,384,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/280.jpg 553,187,801,421,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/55.jpg 517,136,744,361,0 627,165,663,183,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/159.jpg 586,193,819,420,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/241.jpg 618,207,824,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/315.jpg 517,203,745,422,0 701,317,729,349,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/331.jpg 528,194,757,428,0 698,342,715,372,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/108.jpg 564,152,806,384,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/282.jpg 565,165,798,401,0 655,297,689,324,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/126.jpg 543,127,776,371,0 723,215,749,254,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/320.jpg 512,209,745,426,0 608,216,639,235,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/278.jpg 556,186,811,424,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/309.jpg 516,199,755,421,0 607,205,643,231,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/324.jpg 512,197,742,420,0 612,242,649,262,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/253.jpg 619,207,824,403,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/19.jpg 525,163,734,367,0 615,183,644,211,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/284.jpg 559,186,812,425,0 681,231,712,255,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/14.jpg 535,149,724,363,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/72.jpg 522,136,745,363,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/110.jpg 578,143,818,386,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/289.jpg 545,186,797,427,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/246.jpg 618,211,824,410,0 636,262,668,292,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/266.jpg 580,196,779,409,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/34.jpg 490,150,689,367,0 497,196,522,225,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/164.jpg 589,196,827,429,0 667,213,706,236,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/263.jpg 598,187,799,395,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/234.jpg 625,265,792,433,0 704,308,730,331,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/307.jpg 515,206,752,428,0 529,264,569,296,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/243.jpg 623,208,820,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/300.jpg 557,207,773,424,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/174.jpg 581,196,815,414,0 661,391,693,408,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/104.jpg 578,145,822,393,0 668,292,705,329,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/44.jpg 472,153,700,385,0 493,299,542,334,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/314.jpg 518,198,740,424,0 668,341,704,374,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/224.jpg 625,256,804,420,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/242.jpg 614,209,830,424,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/83.jpg 557,144,792,381,0 723,301,755,333,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/3.jpg 533,145,755,359,0 656,197,686,233,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/54.jpg 474,142,715,373,0 581,257,615,291,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/328.jpg 538,188,761,413,0 643,332,671,366,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/237.jpg 612,201,814,413,0 770,276,796,313,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/128.jpg 536,132,770,354,0 599,319,632,342,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/239.jpg 623,197,827,423,0 801,304,823,335,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/223.jpg 635,252,810,423,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/167.jpg 579,189,829,426,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/219.jpg 636,256,805,429,0 740,286,764,311,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/345.jpg 476,198,695,419,0 493,271,524,293,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/20.jpg 525,154,729,371,0 622,214,651,245,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/294.jpg 530,208,783,436,0 640,229,676,251,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/317.jpg 512,189,735,419,0 521,283,551,310,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/75.jpg 523,136,736,369,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/1.jpg 552,161,755,353,0 638,173,672,198,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/262.jpg 620,180,817,386,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/198.jpg 608,182,838,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/78.jpg 557,155,777,377,0 656,161,678,177,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/68.jpg 523,125,749,368,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/270.jpg 568,215,783,424,0 633,253,676,279,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/308.jpg 525,216,760,431,0 557,225,611,254,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/4.jpg 552,136,765,364,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/47.jpg 496,153,706,370,0 662,273,689,309,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/233.jpg 629,256,801,433,0 685,354,717,387,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/129.jpg 545,121,759,356,0 560,264,585,296,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/120.jpg 577,144,823,376,0 638,184,672,209,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/211.jpg 646,251,814,429,0 771,297,798,324,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/66.jpg 515,130,751,362,0 695,206,720,235,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/338.jpg 490,199,716,421,0 604,245,638,277,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/311.jpg 516,205,748,420,0 622,222,657,262,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/251.jpg 612,202,825,408,0 661,367,691,393,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/207.jpg 639,246,808,408,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/127.jpg 535,133,786,364,0 690,297,729,331,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/169.jpg 598,188,842,421,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/58.jpg 512,122,739,361,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/157.jpg 587,197,831,414,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/192.jpg 621,213,869,441,0 756,238,786,266,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/133.jpg 553,168,794,405,0 715,197,743,227,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/179.jpg 582,171,798,410,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/304.jpg 523,204,764,430,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/122.jpg 573,133,809,370,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/264.jpg 590,182,803,399,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/277.jpg 556,176,809,423,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/7.jpg 556,156,767,364,0 588,169,624,195,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/11.jpg 530,154,736,366,0 699,200,729,240,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/82.jpg 556,139,785,381,0 747,271,763,299,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/88.jpg 546,168,796,392,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/18.jpg 506,169,714,365,0 674,203,701,231,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/103.jpg 570,153,807,385,0 661,225,700,261,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/238.jpg 623,201,824,418,0 800,294,819,329,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/184.jpg 578,180,816,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/93.jpg 553,156,800,397,0 689,318,720,356,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/290.jpg 542,171,767,419,0 550,314,575,348,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/102.jpg 561,172,796,397,0 664,209,701,241,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/41.jpg 490,176,711,383,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/29.jpg 501,137,721,351,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/313.jpg 519,198,742,418,0 618,344,650,372,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/348.jpg 489,197,714,420,0 628,324,663,358,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/230.jpg 624,264,789,425,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/231.jpg 620,269,796,424,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/225.jpg 624,259,794,417,0 721,273,745,294,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/235.jpg 615,266,785,434,0 705,287,732,311,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/105.jpg 558,142,797,379,0 651,327,689,363,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/187.jpg 579,174,820,408,0 677,339,723,372,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/229.jpg 639,253,797,417,0 768,294,786,316,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/195.jpg 620,198,869,433,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/201.jpg 627,252,788,414,0 708,271,736,292,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/327.jpg 526,189,746,417,0 641,311,682,340,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/140.jpg 595,170,830,410,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/275.jpg 552,192,801,426,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/81.jpg 560,142,772,383,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/261.jpg 617,185,816,389,0 780,250,812,284,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/286.jpg 550,183,788,430,0 745,259,767,292,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/40.jpg 492,163,705,382,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/244.jpg 612,217,807,423,0 612,331,634,365,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/213.jpg 641,257,808,422,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/206.jpg 634,243,810,410,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/258.jpg 607,191,822,392,0 708,191,741,219,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/306.jpg 515,198,736,426,0 520,332,543,363,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/291.jpg 538,164,764,423,0 547,284,581,309,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/296.jpg 532,215,767,435,0 645,233,686,264,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/204.jpg 638,257,805,405,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/42.jpg 476,177,709,382,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/158.jpg 580,197,830,406,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/60.jpg 523,130,756,364,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/48.jpg 499,152,713,378,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/70.jpg 540,134,763,368,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/214.jpg 638,257,805,422,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/216.jpg 648,255,803,432,0 653,324,669,349,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/85.jpg 566,155,813,391,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/329.jpg 523,187,759,412,0 676,325,702,354,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/8.jpg 547,162,757,368,0 625,170,661,197,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/156.jpg 580,184,821,407,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/305.jpg 531,204,746,421,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/6.jpg 544,152,752,364,0 555,219,582,264,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/281.jpg 547,173,793,418,0 662,353,696,388,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/222.jpg 640,264,811,431,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/170.jpg 593,180,826,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/269.jpg 572,208,774,419,0 580,265,602,303,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/142.jpg 605,182,836,450,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/148.jpg 580,173,827,408,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/273.jpg 548,205,794,442,0 673,248,711,275,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/295.jpg 527,203,792,443,0 649,252,685,281,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/2.jpg 548,152,764,364,0 652,264,688,290,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/118.jpg 586,129,786,370,0 586,246,601,275,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/232.jpg 634,267,789,437,0 636,342,653,364,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/123.jpg 553,145,794,364,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/71.jpg 532,134,763,366,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/132.jpg 560,158,790,408,0 719,193,745,224,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/188.jpg 578,202,822,428,0 635,210,675,234,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/94.jpg 569,162,802,404,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/203.jpg 633,248,801,411,0 740,348,766,374,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/227.jpg 628,242,796,415,0 716,313,737,340,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/24.jpg 522,162,727,368,0 646,185,678,216,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/80.jpg 538,149,774,381,0 716,195,734,208,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/109.jpg 569,154,812,390,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/161.jpg 601,181,821,427,0 605,269,629,298,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/340.jpg 485,205,699,433,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/36.jpg 485,160,693,371,0 556,174,587,196,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/38.jpg 493,159,706,372,0 669,207,694,242,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/322.jpg 508,200,728,419,0 618,232,656,273,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/215.jpg 637,259,809,426,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/76.jpg 528,141,750,378,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/136.jpg 560,169,817,409,0 707,352,739,382,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/43.jpg 478,163,702,394,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/334.jpg 501,208,723,419,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/297.jpg 528,216,762,437,0 677,258,718,286,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/346.jpg 466,207,689,431,0 546,236,578,254,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/39.jpg 495,163,706,375,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/191.jpg 626,208,867,440,0 752,241,789,264,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/147.jpg 588,183,839,416,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/53.jpg 478,138,722,375,0 589,238,621,270,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/220.jpg 652,260,808,432,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/199.jpg 578,196,816,423,0 738,232,774,276,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/197.jpg 610,190,838,420,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/299.jpg 538,208,766,440,0 733,279,756,307,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/332.jpg 514,193,742,425,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/107.jpg 566,184,804,400,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/226.jpg 631,249,798,417,0 721,277,746,304,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/74.jpg 512,137,739,375,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/86.jpg 569,157,802,396,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/16.jpg 521,148,731,364,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/177.jpg 553,181,788,409,0 665,212,696,240,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/185.jpg 583,176,801,414,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/22.jpg 524,148,732,370,0 648,275,685,308,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/106.jpg 558,158,801,383,0 650,350,699,375,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/59.jpg 513,131,747,362,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/259.jpg 607,197,814,392,0 706,229,732,250,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/113.jpg 579,159,827,394,0 675,185,712,214,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/302.jpg 530,212,760,422,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/193.jpg 626,204,871,427,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/135.jpg 582,163,805,407,0 781,261,801,291,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/15.jpg 530,148,726,364,0 534,258,558,294,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/182.jpg 567,188,801,430,0 683,208,720,234,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/180.jpg 581,174,801,407,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/69.jpg 527,127,748,366,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/228.jpg 627,243,796,417,0 756,301,774,325,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/65.jpg 525,131,760,367,0 644,189,677,220,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/45.jpg 473,169,701,383,0 546,234,578,264,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/249.jpg 614,198,827,407,0 704,283,727,315,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/114.jpg 589,139,808,382,0 763,200,788,236,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/268.jpg 573,199,786,415,0 748,328,767,358,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/111.jpg 569,164,811,380,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/326.jpg 510,190,739,421,0 646,276,673,307,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/137.jpg 591,149,831,397,0 620,310,655,347,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/349.jpg 483,200,707,421,0 668,308,690,342,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/27.jpg 528,152,737,364,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/30.jpg 495,138,696,352,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/210.jpg 645,259,810,424,0 738,282,762,304,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/21.jpg 525,152,733,373,0 612,260,653,294,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/57.jpg 518,141,743,359,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/9.jpg 530,154,749,361,0 623,201,652,228,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/200.jpg 600,185,837,413,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/12.jpg 543,166,744,361,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/176.jpg 558,174,797,408,0 695,276,727,310,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/143.jpg 627,176,845,438,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/341.jpg 495,205,706,431,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/90.jpg 549,156,783,395,0 570,294,593,327,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/256.jpg 616,186,823,393,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/131.jpg 583,123,823,324,0
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/35.jpg 491,153,697,364,0 531,178,556,200,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/134.jpg 572,154,825,405,0 755,264,781,297,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/23.jpg 531,147,735,369,0 707,256,733,288,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/117.jpg 566,132,791,370,0 608,308,637,333,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/335.jpg 494,213,716,424,0 585,397,607,414,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/162.jpg 616,186,856,418,0 648,234,677,255,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/150.jpg 572,155,831,408,0 751,261,784,297,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/5.jpg 543,152,741,364,0 697,244,722,283,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/330.jpg 531,188,754,424,0 684,347,708,375,1
+/home/zyz/OrangeDetection/VOCdevkit/VOC2007/JPEGImages/301.jpg 545,208,773,421,0
